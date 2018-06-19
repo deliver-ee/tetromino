@@ -193,7 +193,7 @@ the given constraints.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/tetromino.
+Bug reports and pull requests are welcome on GitHub at https://github.com/deliver-ee/tetromino.
 
 ## License
 
