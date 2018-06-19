@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/tetromino.svg)](https://badge.fury.io/rb/tetromino)
+
 # Tetromino
 
 ## Introduction
